@@ -1,0 +1,1 @@
+#### User download installer -> Installs app -> Opens window -> Types naturally -> Use Web, App, Files -> Interact
